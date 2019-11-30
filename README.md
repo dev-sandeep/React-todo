@@ -1,5 +1,3 @@
-This is a kickstart app for every react app, with the following features: 
-* Across the app data sharing(Context API)
-* Navigation
-* Url Calls
-* Looping through the objects
+Here goes the output for the todo-app
+
+![Image description](https://i.ibb.co/JRS5FV2/todo.png)
